@@ -2,6 +2,8 @@
 
 ## Democratizing nuclear energy!
 
+*There must be no barriers to freedom of inquiry. There is no place for dogma in science. The scientist is free, and must be free to ask any question, to doubt any assertion, to seek for any evidence, to correct any errors.* — Julius Robert Oppenheimer
+
 ![Logo](logo.png)
 
 ## Description
@@ -20,34 +22,34 @@ We strongly believe in the equality of opportunities and aim to foster a global 
 
 We warmly welcome contributions from the community to enhance the Open-source nuke. Whether you want to report a bug, suggest new features, or submit improvements, your input is invaluable to us. To contribute to the project, please follow the following steps.
 
-1. Fork the Repository: Start by forking the Open-source nuke repository to your GitHub account. This will create a copy of the project under your username.
+1. **Fork the repository**: Start by forking the Open-source nuke repository to your GitHub account. This will create a copy of the project under your username.
 
-2. Clone the Repository: Next, clone the forked repository to your local development environment using the following command:
+2. **Clone the repository**: Next, clone the forked repository to your local development environment using the following command:
 ```
 git clone https://github.com/madvorak/nuke.git
 cd nuke
 ```
 
-3. Create a Branch: Before making any changes, create a new branch with a descriptive name for your contribution:
+3. **Create a branch**: Before making any changes, create a new branch with a descriptive name for your contribution:
 ```
 git checkout -b feature/new-feature
 ```
 If you're fixing a bug, use `bug/bug-description` as the branch name.
 
-4. Make Changes: Now, you can make the necessary changes to the project. Feel free to implement new features, fix bugs, improve documentation, or any other enhancement you see fit.
+4. **Make changes**: Now, you can make the necessary changes to the project. Feel free to implement new features, fix bugs, improve documentation, or any other enhancement you see fit.
 
-5. Commit and Push: Once you're satisfied with your changes, commit them with clear and concise messages:
+5. **Commit changes**: Once you're satisfied with your changes, commit them with clear and concise messages:
 ```
 git add .
 git commit -m "Add new feature: Description of the feature"
 ```
 
-6. Push Changes: Push your changes to your GitHub repository:
+6. **Push changes**: Push your changes to your GitHub repository:
 ```
 git push origin feature/new-feature
 ```
 
-7. Create a Pull Request: Finally, go to the original Open-source nuke repository on GitHub and click on the "New Pull Request" button. Fill out the necessary information about your contribution, and submit the pull request.
+7. **Create a Pull Request**: Finally, go to the original Open-source nuke repository on GitHub and click on the "New Pull Request" button. Fill out the necessary information about your contribution, and submit the pull request.
 
 Our team will review your pull request and provide feedback if needed. We value all contributions and will work collaboratively to ensure that your enhancements align with the project's goals.
 
